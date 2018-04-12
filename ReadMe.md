@@ -1,7 +1,7 @@
 # LeetCode-Java-Answer
 
-| NO.  | Title                                    					| Solution 								 | Note         | Tag                                      	| Difficulty      		|
-| :--- | :--------------------------------------------------------  | :--------------------------------------| :----------- | :----------------------------------------	| :-------------------	|
+| NO.  | Title                                    					| Solution 								 | Note        		| Tag                                      	| Difficulty      		|
+| :---:| :--------------------------------------------------------  | :-------------------------------------:| :--------------: | :----------------------------------------:| :-------------------:	|
 | 1    | [Two Sum][T0001]                         					| [Java][SJ0001]                      	 | [Note][N0001]	| Array	HashTable							| Easy					|
 | 2    | [Add Two Numbers][T0002]                 					| [Java][SJ0002]                      	 | [Note][N0002]	| LinkedList Math							| Medium				|
 | 3    | [Longest Substring Without Repeating Characters][T0003]    | [Java][SJ0003]                      	 | [Note][N0003]	| HashTable TwoPointers String				| Medium				|
