@@ -10,6 +10,7 @@
 | 6    | [ZigZag Conversion][T0006]  								| [Java][SJ0006]                      	 | [Note][N0006]	| String 									| Medium				|
 | 7    | [Reverse Integer][T0007]  									| [Java][SJ0007]                      	 | [Note][N0007]	| Math 										| Easy					|
 | 8    | [String to Integer][T0008]  								| [Java][SJ0008]                      	 | [Note][N0008]	| Math String								| Medium				|
+| 9    | [Palindrome Number][T0009]  								| [Java][SJ0009]                      	 | [Note][N0009]	| Math 										| Easy					|
 
 
 
@@ -49,4 +50,7 @@
 [SJ0008]: https://github.com/str818/LeetCode/blob/master/8_StringToInteger/StringToInteger.java
 [N0008]: https://str818.github.io/blog/leetcode-8-string-to-integer.html
 
+[T0009]: https://leetcode.com/problems/palindrome-number/description/
+[SJ0009]: https://github.com/str818/LeetCode/blob/master/9_PalindromeNumber/PalindromeNumber.java
+[N0009]: https://str818.github.io/blog/leetcode-9-palindrome-number.html
 
