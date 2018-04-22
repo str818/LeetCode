@@ -11,6 +11,7 @@
 | 7    | [Reverse Integer][T0007]  									| [Java][SJ0007]                      	 | [Note][N0007]	| Math 										| Easy					|
 | 8    | [String to Integer][T0008]  								| [Java][SJ0008]                      	 | [Note][N0008]	| Math String								| Medium				|
 | 9    | [Palindrome Number][T0009]  								| [Java][SJ0009]                      	 | [Note][N0009]	| Math 										| Easy					|
+| 10   | [RegularExpressionMatching][T0010]  						| [Java][SJ0010]                      	 | [Note][N0010]	| String DP Backtracking					| Hard					|
 
 
 
@@ -53,4 +54,8 @@
 [T0009]: https://leetcode.com/problems/palindrome-number/description/
 [SJ0009]: https://github.com/str818/LeetCode/blob/master/9_PalindromeNumber/PalindromeNumber.java
 [N0009]: https://str818.github.io/blog/leetcode-9-palindrome-number.html
+
+[T0010]: https://leetcode.com/problems/regular-expression-matching/description/
+[SJ0010]: https://github.com/str818/LeetCode/blob/master/10_RegularExpressionMatching/RegularExpressionMatching.java
+[N0010]: https://str818.github.io/blog/leetcode-10-regular-expression-matching.html
 
