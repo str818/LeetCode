@@ -1,9 +1,11 @@
 package com.str818.sort;
 
-import java.util.Arrays;
-
 /**
  * 选择排序
+ *
+ * 将最 小/大 的数交换到待排序序列的最前面。
+ *
+ * https://str818.github.io/2019/03/25/algorithm-sorting.html#%E4%B8%80%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F
  *
  * @author str818
  * @date 2020/4/3
