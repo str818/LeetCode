@@ -26,7 +26,7 @@ public class Main {
                 {-4,99,-23,9999,234}
         };
         for (int[] arr: arrays) {
-            SelectionSort.sort(arr);
+            HeapSort.sort(arr);
             System.out.println(Arrays.toString(arr));
         }
     }
