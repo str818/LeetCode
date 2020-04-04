@@ -23,7 +23,6 @@ public class MergeSort {
     public static void separate(int[] arr, int l, int r) {
         if (l == r) return;
         int mid = l + (r - l) / 2;
-        System.out.println(l + " " + mid + " " + r);
         separate(arr, l, mid);
         separate(arr, mid + 1, r);
         merge(arr, l, mid, r);
