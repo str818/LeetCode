@@ -13,7 +13,7 @@ package com.str818.sort;
 public class ShellSort {
 
     public static void sort(int[] arr) {
-        if (arr == null) {
+        if (arr == null || arr.length < 2) {
             return;
         }
         for (int D = arr.length / 2; D >= 1; D /= 2) {
