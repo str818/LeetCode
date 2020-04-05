@@ -1,6 +1,8 @@
 # 索引
 
+- [算法复杂度基础](https://str818.github.io/2019/02/16/algorithm_complexity_basis.html)
 - [排序算法](#排序算法)
+- [剑指Offer](#剑指Offer)
 
 
 ## 排序算法
@@ -17,8 +19,6 @@
 | 8    | 计数排序                    | 开辟额外空间，统计每个元素的数量                           | [Java][SortS08]                        | [Note][SortN08]	|
 | 9    | 桶排序                      | 划分多个范围相同的区间，每个自区间自排序，最后合并            | [Java][SortS09]                        | [Note][SortN09]	|
 | 10   | 基数排序                    | 从最低位向最高位依次排序                                 | [Java][SortS10]                        | [Note][SortN10]	|
-
-
 
 [SortS01]: https://github.com/str818/LeetCode/blob/master/src/com/str818/sort/SelectionSort.java
 [SortN01]: https://str818.github.io/2019/03/25/algorithm-sorting.html#%E4%B8%80%E9%80%89%E6%8B%A9%E6%8E%92%E5%BA%8F
@@ -49,3 +49,14 @@
 
 [SortS10]: https://github.com/str818/LeetCode/blob/master/src/com/str818/sort/RadixSort.java
 [SortN10]: https://str818.github.io/2019/03/25/algorithm-sorting.html#%E5%8D%81%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F
+
+## 剑指Offer
+
+| NO.  | Title                      |  Tags           			   |  Difficult           | Solution 				| Note        	    | Code It Now!!  |
+| :---:| :------------------------: | :--------------------------: | :----------------:   | :---------------------: | :---------------: | :-----------:  |
+| 3    | 数组中重复的数字              | 数组、哈希表                   |  简单                 | [Java][OfferS01]        | [Note][OfferN01]  | [GO!][OfferC01] |
+
+
+[OfferS01]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
+[OfferN01]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#3-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97
+[OfferC01]: https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/
