@@ -61,9 +61,9 @@
 | 7    | 重建二叉树                   | 树、递归                      |  中等                 | [Java][OfferS07]        | [Note][OfferN07]   | [GO!][OfferC07]    |
 | 8    | 二叉树的下一个结点            | 树                            |  简单                 | [Java][OfferS08]        | [Note][OfferN08]   | [GO!][OfferC08]    |
 | 9    | 用两个栈实现队列              | 栈                           |  简单                 | [Java][OfferS09]        | [Note][OfferN09]   | [GO!][OfferC09]    |
-| 10.1 | 斐波那契数列                 | 递归                          |  简单                 | [Java][OfferS10_1]      | [Note][OfferN010_1]| [GO!][OfferC010_1] |
-| 10.2 | 矩形覆盖                    | 递归                          |  简单                 | [Java][OfferS10_2]      | [Note][OfferN010_2]| [GO!][OfferC010_2] |
-| 10.3 | 跳台阶                      | 递归                          |  简单                 | [Java][OfferS10_3]      | [Note][OfferN010_3]| [GO!][OfferC010_3] |
+| 10.1 | 斐波那契数列                 | 递归                          |  简单                 | [Java][OfferS10_1]      | [Note][OfferN10_1] | [GO!][OfferC10_1] |
+| 10.2 | 矩形覆盖                    | 递归                          |  简单                 | [Java][OfferS10_2]      | [Note][OfferN10_2] | [GO!][OfferC10_2] |
+| 10.3 | 跳台阶                      | 递归                          |  简单                 | [Java][OfferS10_3]      | [Note][OfferN10_3] | [GO!][OfferC10_3] |
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
 [OfferN03]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#3-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97
