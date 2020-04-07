@@ -126,6 +126,6 @@
 [OfferN13]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#13-%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4
 [OfferC13]: https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
 
-[OfferS14]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_14_1.java
-[OfferN14]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#14-%E5%89%AA%E7%BB%B3%E5%AD%90
-[OfferC14]: https://leetcode-cn.com/problems/jian-sheng-zi-lcof/
+[OfferS14_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_14_1.java
+[OfferN14_1]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#14-%E5%89%AA%E7%BB%B3%E5%AD%90
+[OfferC14_1]: https://leetcode-cn.com/problems/jian-sheng-zi-lcof/
