@@ -66,6 +66,8 @@
 | 10.3 | 跳台阶                      | 递归                          |  简单                 | [Java][OfferS10_3]      | [Note][OfferN10_3] | [GO!][OfferC10_3] |
 | 10.4 | 变态跳台阶                   | 递归、动态规划                 |  简单                 | [Java][OfferS10_4]      | [Note][OfferN10_4] | [GO!][OfferC10_4] |
 | 11   | 旋转数组的最小数字            | 二分                          |  简单                 | [Java][OfferS11]        | [Note][OfferN11]   | [GO!][OfferC11]    |
+| 12   | 矩阵中的路径                 | 深度优先搜索                   |  中等                 | [Java][OfferS12]        | [Note][OfferN12]   | [GO!][OfferC12]    |
+| 13   | 机器人的运动范围             | 深度优先搜索                   |  中等                 | [Java][OfferS13]        | [Note][OfferN13]   | [GO!][OfferC13]    |
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
 [OfferN03]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#3-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97
@@ -114,3 +116,11 @@
 [OfferS11]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_11.java
 [OfferN11]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#11-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97
 [OfferC11]: https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
+
+[OfferS12]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_12.java
+[OfferN12]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#12-%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E8%B7%AF%E5%BE%84
+[OfferC12]: https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
+
+[OfferS13]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_13.java
+[OfferN13]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#13-%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E8%BF%90%E5%8A%A8%E8%8C%83%E5%9B%B4
+[OfferC13]: https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/
