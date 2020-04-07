@@ -64,6 +64,8 @@
 | 10.1 | 斐波那契数列                 | 递归                          |  简单                 | [Java][OfferS10_1]      | [Note][OfferN10_1] | [GO!][OfferC10_1] |
 | 10.2 | 矩形覆盖                    | 递归                          |  简单                 | [Java][OfferS10_2]      | [Note][OfferN10_2] | [GO!][OfferC10_2] |
 | 10.3 | 跳台阶                      | 递归                          |  简单                 | [Java][OfferS10_3]      | [Note][OfferN10_3] | [GO!][OfferC10_3] |
+| 10.4 | 变态跳台阶                   | 递归、动态规划                 |  简单                 | [Java][OfferS10_4]      | [Note][OfferN10_4] | [GO!][OfferC10_4] |
+| 11   | 旋转数组的最小数字            | 二分                          |  简单                 | [Java][OfferS11]        | [Note][OfferN11]   | [GO!][OfferC11]    |
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
 [OfferN03]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#3-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97
@@ -104,3 +106,11 @@
 [OfferS10_3]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_10_3.java
 [OfferN10_3]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#103-%E8%B7%B3%E5%8F%B0%E9%98%B6
 [OfferC10_3]: https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/
+
+[OfferS10_4]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_10_4.java
+[OfferN10_4]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#104-%E5%8F%98%E6%80%81%E8%B7%B3%E5%8F%B0%E9%98%B6
+[OfferC10_4]: https://www.nowcoder.com/questionTerminal/22243d016f6b47f2a6928b4313c85387
+
+[OfferS11]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_11.java
+[OfferN11]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#11-%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%B0%8F%E6%95%B0%E5%AD%97
+[OfferC11]: https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/
