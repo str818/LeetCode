@@ -3,7 +3,7 @@ package com.str818.offer;
 /**
  * 矩阵中的路径
  *
- * 标签：回溯
+ * 标签：深度优先搜索
  *
  * Code It Now：https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/
  *
