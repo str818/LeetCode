@@ -68,7 +68,8 @@
 | 11   | 旋转数组的最小数字            | 二分                          |  简单                 | [Java][OfferS11]        | [Note][OfferN11]   | [GO!][OfferC11]    |
 | 12   | 矩阵中的路径                 | 深度优先搜索                   |  中等                 | [Java][OfferS12]        | [Note][OfferN12]   | [GO!][OfferC12]    |
 | 13   | 机器人的运动范围             | 深度优先搜索                    |  中等                 | [Java][OfferS13]        | [Note][OfferN13]   | [GO!][OfferC13]    |
-| 14.1 | 剪绳子                      | 动态规划、数学                 |  中等                 | [Java][OfferS14_1]      | [Note][OfferN14_1] | [GO!][OfferC14_1] |
+| 14.1 | 剪绳子I                     | 动态规划、数学                 |  中等                 | [Java][OfferS14_1]      | [Note][OfferN14_1] | [GO!][OfferC14_1] |
+| 14.2 | 剪绳子II                    | 动态规划、数学                 |  中等                 | [Java][OfferS14_2]      | [Note][OfferN14_2] | [GO!][OfferC14_2] |
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
 [OfferN03]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#3-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97
@@ -129,3 +130,7 @@
 [OfferS14_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_14_1.java
 [OfferN14_1]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#14-%E5%89%AA%E7%BB%B3%E5%AD%90
 [OfferC14_1]: https://leetcode-cn.com/problems/jian-sheng-zi-lcof/
+
+[OfferS14_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_14_2.java
+[OfferN14_2]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#142-%E5%89%AA%E7%BB%B3%E5%AD%90-ii
+[OfferC14_2]: https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/
