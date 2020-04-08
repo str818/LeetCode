@@ -71,6 +71,7 @@
 | 14.1 | 剪绳子I                     | 动态规划、数学                 |  中等                 | [Java][OfferS14_1]      | [Note][OfferN14_1] | [GO!][OfferC14_1] |
 | 14.2 | 剪绳子II                    | 动态规划、数学                 |  中等                 | [Java][OfferS14_2]      | [Note][OfferN14_2] | [GO!][OfferC14_2] |
 | 15   | 二进制中1的个数              | 位运算                        |  简单                 | [Java][OfferS15]        | [Note][OfferN15]   | [GO!][OfferC15]    |
+| 16   | 数值的整数次方               | 快速幂                        |  简单                 | [Java][OfferS16]        | [Note][OfferN16]   | [GO!][OfferC16]    |
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
 [OfferN03]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#3-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97
@@ -139,3 +140,7 @@
 [OfferS15]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_15.java
 [OfferN15]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#15-%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%B8%AD-1-%E7%9A%84%E4%B8%AA%E6%95%B0
 [OfferC15]: https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/
+
+[OfferS16]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_16.java
+[OfferN16]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#16-%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9
+[OfferC16]: https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
