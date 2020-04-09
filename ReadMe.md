@@ -73,6 +73,9 @@
 | 14.2 | 剪绳子II                    | 动态规划、数学                 |  中等                 | [Java][OfferS14_2]      | [Note][OfferN14_2] | [GO!][OfferC14_2] |
 | 15   | 二进制中1的个数              | 位运算                        |  简单                 | [Java][OfferS15]        | [Note][OfferN15]   | [GO!][OfferC15]    |
 | 16   | 数值的整数次方               | 快速幂                        |  简单                 | [Java][OfferS16]        | [Note][OfferN16]   | [GO!][OfferC16]    |
+| 17   | 打印从1到最大的n位数          | 数学                         |  简单                 | [Java][OfferS17]        | [Note][OfferN17]   | [GO!][OfferC17]    |
+| 18.1 | 在 O(1) 时间内删除链表节点    | 链表                          |  简单                 | [Java][OfferS18_1]      | [Note][OfferN18_1] | [GO!][OfferC18_1] |
+
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
 [OfferN03]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#3-%E6%95%B0%E7%BB%84%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E6%95%B0%E5%AD%97
@@ -145,3 +148,11 @@
 [OfferS16]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_16.java
 [OfferN16]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#16-%E6%95%B0%E5%80%BC%E7%9A%84%E6%95%B4%E6%95%B0%E6%AC%A1%E6%96%B9
 [OfferC16]: https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/
+
+[OfferS17]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_17.java
+[OfferN17]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#17-%E6%89%93%E5%8D%B0%E4%BB%8E-1-%E5%88%B0%E6%9C%80%E5%A4%A7%E7%9A%84-n-%E4%BD%8D%E6%95%B0
+[OfferC17]: https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/
+
+[OfferS18_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_18_1.java
+[OfferN18_1]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#181-%E5%9C%A8-o1-%E6%97%B6%E9%97%B4%E5%86%85%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E8%8A%82%E7%82%B9
+[OfferC18_1]: https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/
