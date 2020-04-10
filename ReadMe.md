@@ -75,6 +75,7 @@
 | 16   | 数值的整数次方               | 快速幂                        |  简单                 | [Java][OfferS16]        | [Note][OfferN16]   | [GO!][OfferC16]    |
 | 17   | 打印从1到最大的n位数          | 数学                         |  简单                 | [Java][OfferS17]        | [Note][OfferN17]   | [GO!][OfferC17]    |
 | 18.1 | 在 O(1) 时间内删除链表节点    | 链表                          |  简单                 | [Java][OfferS18_1]      | [Note][OfferN18_1] | [GO!][OfferC18_1] |
+| 18.2 | 删除链表中重复的结点          | 链表                          |  简单                 | [Java][OfferS18_2]      | [Note][OfferN18_2] | [GO!][OfferC18_2] |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -156,3 +157,7 @@
 [OfferS18_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_18_1.java
 [OfferN18_1]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#181-%E5%9C%A8-o1-%E6%97%B6%E9%97%B4%E5%86%85%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E8%8A%82%E7%82%B9
 [OfferC18_1]: https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/
+
+[OfferS18_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_18_2.java
+[OfferN18_2]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#182-%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E9%87%8D%E5%A4%8D%E7%9A%84%E7%BB%93%E7%82%B9
+[OfferC18_2]: https://www.nowcoder.com/practice/fc533c45b73a41b0b44ccba763f866ef?tpId=13&tqId=11209&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
