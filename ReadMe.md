@@ -77,6 +77,7 @@
 | 18.2 | 删除链表中重复的结点          | 链表                          |  简单                 | [Java][OfferS18_2]      | [Note][OfferN18_2] | [GO!][OfferC18_2] |
 | 19   | 正则表达式匹配               | 动态规划                       |  困难                 | [Java][OfferS19]        | [Note][OfferN19]   | [GO!][OfferC19]    |
 | 20   | 表示数值的字符串              | 字符串、数学                   |  中等                 | [Java][OfferS20]        | [Note][OfferN20]   | [GO!][OfferC20]    |
+| 21   | 调整数组顺序使奇数位于偶数前面  | 数组、双指针                   |  简单                 | [Java][OfferS21]        | [Note][OfferN21]   | [GO!][OfferC21]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -170,3 +171,7 @@
 [OfferS20]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_20.java
 [OfferN20]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#20-%E8%A1%A8%E7%A4%BA%E6%95%B0%E5%80%BC%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2
 [OfferC20]: https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/
+
+[OfferS21]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_21.java
+[OfferN21]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#21-%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2
+[OfferC21]: https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
