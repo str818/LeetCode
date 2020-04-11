@@ -78,6 +78,10 @@
 | 19   | 正则表达式匹配               | 动态规划                       |  困难                 | [Java][OfferS19]        | [Note][OfferN19]   | [GO!][OfferC19]    |
 | 20   | 表示数值的字符串              | 字符串、数学                   |  中等                 | [Java][OfferS20]        | [Note][OfferN20]   | [GO!][OfferC20]    |
 | 21   | 调整数组顺序使奇数位于偶数前面  | 数组、双指针                   |  简单                 | [Java][OfferS21]        | [Note][OfferN21]   | [GO!][OfferC21]    |
+| 22   | 链表中倒数第k个节点           | 链表、双指针                   |  简单                 | [Java][OfferS22]        | [Note][OfferN22]   | [GO!][OfferC22]    |
+| 23   | 链表中环的入口结点            | 链表、双指针                   |  中等                 | [Java][OfferS23]        | [Note][OfferN23]   | [GO!][OfferC23]    |
+| 24   | 反转链表                     | 链表                          |  简单                 | [Java][OfferS24]        | [Note][OfferN24]   | [GO!][OfferC24]    |
+| 25   | 合并两个排序的链表            | 链表                          |  简单                 | [Java][OfferS25]        | [Note][OfferN25]   | [GO!][OfferC25]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -175,3 +179,19 @@
 [OfferS21]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_21.java
 [OfferN21]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#21-%E8%B0%83%E6%95%B4%E6%95%B0%E7%BB%84%E9%A1%BA%E5%BA%8F%E4%BD%BF%E5%A5%87%E6%95%B0%E4%BD%8D%E4%BA%8E%E5%81%B6%E6%95%B0%E5%89%8D%E9%9D%A2
 [OfferC21]: https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/
+
+[OfferS22]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_22.java
+[OfferN22]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#22-%E9%93%BE%E8%A1%A8%E4%B8%AD%E5%80%92%E6%95%B0%E7%AC%AC-k-%E4%B8%AA%E8%8A%82%E7%82%B9
+[OfferC22]: https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/
+
+[OfferS23]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_23.java
+[OfferN23]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#23-%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%8E%AF%E7%9A%84%E5%85%A5%E5%8F%A3%E7%BB%93%E7%82%B9
+[OfferC23]: https://www.nowcoder.com/practice/253d2c59ec3e4bc68da16833f79a38e4?tpId=13&tqId=11208&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
+
+[OfferS24]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_24.java
+[OfferN24]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#24-%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8
+[OfferC24]: https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/
+
+[OfferS25]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_25.java
+[OfferN25]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#25-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8
+[OfferC25]: https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
