@@ -86,6 +86,7 @@
 | 27   | 二叉树的镜像                 | 树                            |  简单                 | [Java][OfferS27]        | [Note][OfferN27]   | [GO!][OfferC27]    |
 | 28   | 对称的二叉树                 | 树                            |  简单                 | [Java][OfferS28]        | [Note][OfferN28]   | [GO!][OfferC28]    |
 | 29   | 顺时针打印矩阵               | 数组                           |  简单                 | [Java][OfferS29]        | [Note][OfferN29]   | [GO!][OfferC29]    |
+| 30   | 包含min函数的栈              | 栈                            |  简单                 | [Java][OfferS30]        | [Note][OfferN30]   | [GO!][OfferC30]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -215,3 +216,7 @@
 [OfferS29]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_29.java
 [OfferN29]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#29-%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5
 [OfferC29]: https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/
+
+[OfferS30]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_30.java
+[OfferN30]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#30-%E5%8C%85%E5%90%AB-min-%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88
+[OfferC30]: https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
