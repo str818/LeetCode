@@ -12,7 +12,7 @@ package com.str818.offer;
  * @author str818
  * @date 2020/4/12
  */
-public class Solution_27 {
+public class Solution_26 {
 
     public boolean isSubStructure(TreeNode A, TreeNode B) {
         if (A == null || B == null) return false;
