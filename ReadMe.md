@@ -82,6 +82,10 @@
 | 23   | 链表中环的入口结点            | 链表、双指针                   |  中等                 | [Java][OfferS23]        | [Note][OfferN23]   | [GO!][OfferC23]    |
 | 24   | 反转链表                     | 链表                          |  简单                 | [Java][OfferS24]        | [Note][OfferN24]   | [GO!][OfferC24]    |
 | 25   | 合并两个排序的链表            | 链表                          |  简单                 | [Java][OfferS25]        | [Note][OfferN25]   | [GO!][OfferC25]    |
+| 26   | 树的子结构                   | 树                            |  简单                 | [Java][OfferS26]        | [Note][OfferN26]   | [GO!][OfferC26]    |
+| 27   | 二叉树的镜像                 | 树                            |  简单                 | [Java][OfferS27]        | [Note][OfferN27]   | [GO!][OfferC27]    |
+| 28   | 对称的二叉树                 | 树                            |  简单                 | [Java][OfferS28]        | [Note][OfferN28]   | [GO!][OfferC28]    |
+| 29   | 顺时针打印矩阵               | 数组                           |  简单                 | [Java][OfferS29]        | [Note][OfferN29]   | [GO!][OfferC29]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -195,3 +199,19 @@
 [OfferS25]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_25.java
 [OfferN25]: https://str818.github.io/2019/07/08/sword-refers-to-offer-up.html#25-%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E7%9A%84%E9%93%BE%E8%A1%A8
 [OfferC25]: https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/
+
+[OfferS26]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_26.java
+[OfferN26]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#26-%E6%A0%91%E7%9A%84%E5%AD%90%E7%BB%93%E6%9E%84
+[OfferC26]: https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/
+
+[OfferS27]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_27.java
+[OfferN27]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#27-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%95%9C%E5%83%8F
+[OfferC27]: https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/
+
+[OfferS28]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_28.java
+[OfferN28]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#28-%E5%AF%B9%E7%A7%B0%E7%9A%84%E4%BA%8C%E5%8F%89%E6%A0%91
+[OfferC28]: https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/
+
+[OfferS29]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_29.java
+[OfferN29]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#29-%E9%A1%BA%E6%97%B6%E9%92%88%E6%89%93%E5%8D%B0%E7%9F%A9%E9%98%B5
+[OfferC29]: https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/
