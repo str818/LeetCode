@@ -88,6 +88,8 @@
 | 29   | 顺时针打印矩阵               | 数组                           |  简单                 | [Java][OfferS29]        | [Note][OfferN29]   | [GO!][OfferC29]    |
 | 30   | 包含min函数的栈              | 栈                            |  简单                 | [Java][OfferS30]        | [Note][OfferN30]   | [GO!][OfferC30]    |
 | 31   | 栈的压入、弹出序列            | 栈                            |  中等                 | [Java][OfferS31]        | [Note][OfferN31]   | [GO!][OfferC31]    |
+| 32.1 | 从上往下打印二叉树            | 树、广度优先搜索                |  中等                 | [Java][OfferS32_1]      | [Note][OfferN32_1] | [GO!][OfferC32_1]  |
+| 32.2 | 从上往下打印二叉树II          | 树、广度优先搜索                |  简单                 | [Java][OfferS32_2]      | [Note][OfferN32_2] | [GO!][OfferC32_2]  |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -222,6 +224,14 @@
 [OfferN30]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#30-%E5%8C%85%E5%90%AB-min-%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88
 [OfferC30]: https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
 
-[OfferS30]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_31.java
-[OfferN30]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#31-%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97
-[OfferC30]: https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
+[OfferS31]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_31.java
+[OfferN31]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#31-%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97
+[OfferC31]: https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
+
+[OfferS32_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_32_1.java
+[OfferN32_1]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#321-%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91
+[OfferC32_1]: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/
+
+[OfferS32_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_32_2.java
+[OfferN32_2]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#322-%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91ii
+[OfferC32_2]: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/
