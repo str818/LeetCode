@@ -87,6 +87,7 @@
 | 28   | 对称的二叉树                 | 树                            |  简单                 | [Java][OfferS28]        | [Note][OfferN28]   | [GO!][OfferC28]    |
 | 29   | 顺时针打印矩阵               | 数组                           |  简单                 | [Java][OfferS29]        | [Note][OfferN29]   | [GO!][OfferC29]    |
 | 30   | 包含min函数的栈              | 栈                            |  简单                 | [Java][OfferS30]        | [Note][OfferN30]   | [GO!][OfferC30]    |
+| 31   | 栈的压入、弹出序列            | 栈                            |  中等                 | [Java][OfferS31]        | [Note][OfferN31]   | [GO!][OfferC31]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -220,3 +221,7 @@
 [OfferS30]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_30.java
 [OfferN30]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#30-%E5%8C%85%E5%90%AB-min-%E5%87%BD%E6%95%B0%E7%9A%84%E6%A0%88
 [OfferC30]: https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/
+
+[OfferS30]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_31.java
+[OfferN30]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#31-%E6%A0%88%E7%9A%84%E5%8E%8B%E5%85%A5%E5%BC%B9%E5%87%BA%E5%BA%8F%E5%88%97
+[OfferC30]: https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/
