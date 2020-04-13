@@ -90,6 +90,8 @@
 | 31   | 栈的压入、弹出序列            | 栈                            |  中等                 | [Java][OfferS31]        | [Note][OfferN31]   | [GO!][OfferC31]    |
 | 32.1 | 从上往下打印二叉树            | 树、广度优先搜索                |  中等                 | [Java][OfferS32_1]      | [Note][OfferN32_1] | [GO!][OfferC32_1]  |
 | 32.2 | 从上往下打印二叉树II          | 树、广度优先搜索                |  简单                 | [Java][OfferS32_2]      | [Note][OfferN32_2] | [GO!][OfferC32_2]  |
+| 32.3 | 从上往下打印二叉树III         | 树、广度优先搜索                |  简单                 | [Java][OfferS32_3]      | [Note][OfferN32_3] | [GO!][OfferC32_3]  |
+| 33   | 二叉搜索树的后序遍历序列       | 树                            |  中等                 | [Java][OfferS33]        | [Note][OfferN33]   | [GO!][OfferC33]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -235,3 +237,11 @@
 [OfferS32_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_32_2.java
 [OfferN32_2]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#322-%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91ii
 [OfferC32_2]: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/
+
+[OfferS32_3]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_32_3.java
+[OfferN32_3]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#323-%E4%BB%8E%E4%B8%8A%E5%BE%80%E4%B8%8B%E6%89%93%E5%8D%B0%E4%BA%8C%E5%8F%89%E6%A0%91iii
+[OfferC32_3]: https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/
+
+[OfferS33]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_33.java
+[OfferN33]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#33-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E7%BB%AD%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97
+[OfferC33]: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
