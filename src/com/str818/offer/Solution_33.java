@@ -1,7 +1,5 @@
 package com.str818.offer;
 
-import java.util.*;
-
 /**
  * 二叉搜索树的后序遍历序列
  *
