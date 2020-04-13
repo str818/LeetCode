@@ -92,6 +92,8 @@
 | 32.2 | 从上往下打印二叉树II          | 树、广度优先搜索                |  简单                 | [Java][OfferS32_2]      | [Note][OfferN32_2] | [GO!][OfferC32_2]  |
 | 32.3 | 从上往下打印二叉树III         | 树、广度优先搜索                |  简单                 | [Java][OfferS32_3]      | [Note][OfferN32_3] | [GO!][OfferC32_3]  |
 | 33   | 二叉搜索树的后序遍历序列       | 树                            |  中等                 | [Java][OfferS33]        | [Note][OfferN33]   | [GO!][OfferC33]    |
+| 34   | 二叉树中和为某一值的路径       | 树、深度优先搜索                |  中等                 | [Java][OfferS34]        | [Note][OfferN34]   | [GO!][OfferC34]    |
+| 35   | 复杂链表的复制                | 链表                          |  中等                 | [Java][OfferS35]        | [Note][OfferN35]   | [GO!][OfferC35]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -245,3 +247,11 @@
 [OfferS33]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_33.java
 [OfferN33]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#33-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E5%90%8E%E7%BB%AD%E9%81%8D%E5%8E%86%E5%BA%8F%E5%88%97
 [OfferC33]: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/
+
+[OfferS34]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_34.java
+[OfferN34]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#34-%E4%BA%8C%E5%8F%89%E6%A0%91%E4%B8%AD%E5%92%8C%E4%B8%BA%E6%9F%90%E4%B8%80%E5%80%BC%E7%9A%84%E8%B7%AF%E5%BE%84
+[OfferC34]: https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/
+
+[OfferS35]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_35.java
+[OfferN35]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#35-%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6
+[OfferC35]: https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/
