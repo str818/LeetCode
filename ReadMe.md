@@ -99,6 +99,10 @@
 | 38   | 字符串的排列                  | 回溯                          |  中等                 | [Java][OfferS38]        | [Note][OfferN38]   | [GO!][OfferC38]    |
 | 39   | 数组中出现次数超过一半的数字    | 摩尔投票                       |  简单                 | [Java][OfferS39]        | [Note][OfferN39]   | [GO!][OfferC39]    |
 | 40   | 最小的K个数                  | 快排、堆                       |  中等                 | [Java][OfferS40]        | [Note][OfferN40]   | [GO!][OfferC40]    |
+| 41.1 | 数据流中的中位数              | 堆、设计                       |  困难                 | [Java][OfferS41_1]      | [Note][OfferN41_1] | [GO!][OfferC41_1]  |
+| 41.2 | 字符流中第一个不重复的字符     | 队列、设计                      |  中等                 | [Java][OfferS41_2]      | [Note][OfferN41_2] | [GO!][OfferC41_2]  |
+| 42   | 连续子数组的最大和            | 动态规划                       |  简单                 | [Java][OfferS42]        | [Note][OfferN42]   | [GO!][OfferC42]    |
+| 43   | 从1到n整数中1出现的次数       | 数学                           |  困难                 | [Java][OfferS43]        | [Note][OfferN43]   | [GO!][OfferC43]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -280,3 +284,19 @@
 [OfferS40]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_40.java
 [OfferN40]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#40-%E6%9C%80%E5%B0%8F%E7%9A%84-k-%E4%B8%AA%E6%95%B0
 [OfferC40]: https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/
+
+[OfferS41_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_41_1.java
+[OfferN41_1]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#411-%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0
+[OfferC41_1]: https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/
+
+[OfferS41_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_41_2.java
+[OfferN41_2]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#412-%E5%AD%97%E7%AC%A6%E6%B5%81%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%8D%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%97%E7%AC%A6
+[OfferC41_2]: https://www.nowcoder.com/practice/00de97733b8e4f97a3fb5c680ee10720?tpId=13&tqId=11207&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
+
+[OfferS42]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_42.java
+[OfferN42]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#42-%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C
+[OfferC42]: https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/
+
+[OfferS43]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_43.java
+[OfferN43]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#43-%E4%BB%8E-1-%E5%88%B0-n-%E6%95%B4%E6%95%B0%E4%B8%AD-1-%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0
+[OfferC43]: https://leetcode-cn.com/problems/number-of-digit-one/
