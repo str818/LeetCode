@@ -14,7 +14,7 @@ import java.util.PriorityQueue;
  * @author str818
  * @date 2020/4/16
  */
-public class Solution_41 {
+public class Solution_41_1 {
 
     PriorityQueue<Integer> left = new PriorityQueue<>((o1, o2) -> o2 - o1);
     PriorityQueue<Integer> right = new PriorityQueue<>();
