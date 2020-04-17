@@ -103,6 +103,10 @@
 | 41.2 | 字符流中第一个不重复的字符     | 队列、设计                      |  中等                 | [Java][OfferS41_2]      | [Note][OfferN41_2] | [GO!][OfferC41_2]  |
 | 42   | 连续子数组的最大和            | 动态规划                       |  简单                 | [Java][OfferS42]        | [Note][OfferN42]   | [GO!][OfferC42]    |
 | 43   | 从1到n整数中1出现的次数       | 数学                           |  困难                 | [Java][OfferS43]        | [Note][OfferN43]   | [GO!][OfferC43]    |
+| 44   | 数字序列中某一位的数字        | 数学                           |  中等                 | [Java][OfferS44]        | [Note][OfferN44]   | [GO!][OfferC44]    |
+| 45   | 把数组排成最小               | 排序                           |  中等                 | [Java][OfferS45]        | [Note][OfferN45]   | [GO!][OfferC45]    |
+| 46   | 把数字翻译成字符串            | 动态规划、递归                  |  中等                 | [Java][OfferS46]        | [Note][OfferN46]   | [GO!][OfferC46]    |
+| 47   | 礼物的最大价值                | 动态规划                       |  中等                 | [Java][OfferS47]        | [Note][OfferN47]   | [GO!][OfferC47]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -300,3 +304,19 @@
 [OfferS43]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_43.java
 [OfferN43]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#43-%E4%BB%8E-1-%E5%88%B0-n-%E6%95%B4%E6%95%B0%E4%B8%AD-1-%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0
 [OfferC43]: https://leetcode-cn.com/problems/number-of-digit-one/
+
+[OfferS44]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_44.java
+[OfferN44]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#44-%E6%95%B0%E5%AD%97%E5%BA%8F%E5%88%97%E4%B8%AD%E6%9F%90%E4%B8%80%E4%BD%8D%E7%9A%84%E6%95%B0%E5%AD%97
+[OfferC44]: https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/
+
+[OfferS45]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_45.java
+[OfferN45]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#45-%E6%8A%8A%E6%95%B0%E7%BB%84%E6%8E%92%E6%88%90%E6%9C%80%E5%B0%8F
+[OfferC45]: https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/
+
+[OfferS46]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_46.java
+[OfferN46]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#46-%E6%8A%8A%E6%95%B0%E5%AD%97%E7%BF%BB%E8%AF%91%E6%88%90%E5%AD%97%E7%AC%A6%E4%B8%B2
+[OfferC46]: https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/
+
+[OfferS47]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_47.java
+[OfferN47]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#47-%E7%A4%BC%E7%89%A9%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BB%B7%E5%80%BC
+[OfferC47]: https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
