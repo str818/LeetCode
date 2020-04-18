@@ -107,6 +107,9 @@
 | 45   | 把数组排成最小               | 排序                           |  中等                 | [Java][OfferS45]        | [Note][OfferN45]   | [GO!][OfferC45]    |
 | 46   | 把数字翻译成字符串            | 动态规划、递归                  |  中等                 | [Java][OfferS46]        | [Note][OfferN46]   | [GO!][OfferC46]    |
 | 47   | 礼物的最大价值                | 动态规划                       |  中等                 | [Java][OfferS47]        | [Note][OfferN47]   | [GO!][OfferC47]    |
+| 48   | 最长不含重复字符的子字符串      | 滑动窗口                       |  中等                 | [Java][OfferS48]        | [Note][OfferN48]   | [GO!][OfferC48]    |
+| 49   | 丑数                         | 动态规划                       |  中等                 | [Java][OfferS49]        | [Note][OfferN49]   | [GO!][OfferC49]    |
+| 50   | 第一个只出现一次的字符位置      | 哈希                           |  简单                 | [Java][OfferS50]        | [Note][OfferN50]   | [GO!][OfferC50]    |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -320,3 +323,15 @@
 [OfferS47]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_47.java
 [OfferN47]: https://str818.github.io/2019/07/09/sword-refers-to-offer-middle.html#47-%E7%A4%BC%E7%89%A9%E7%9A%84%E6%9C%80%E5%A4%A7%E4%BB%B7%E5%80%BC
 [OfferC47]: https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/
+
+[OfferS48]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_48.java
+[OfferN48]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#48-%E6%9C%80%E9%95%BF%E4%B8%8D%E5%90%AB%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2
+[OfferC48]: https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/
+
+[OfferS49]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_49.java
+[OfferN49]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#49-%E4%B8%91%E6%95%B0
+[OfferC49]: https://leetcode-cn.com/problems/chou-shu-lcof/
+
+[OfferS50]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_50.java
+[OfferN50]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#50-%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6%E4%BD%8D%E7%BD%AE
+[OfferC50]: https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
