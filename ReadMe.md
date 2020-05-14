@@ -110,6 +110,13 @@
 | 48   | 最长不含重复字符的子字符串      | 滑动窗口                       |  中等                 | [Java][OfferS48]        | [Note][OfferN48]   | [GO!][OfferC48]    |
 | 49   | 丑数                         | 动态规划                       |  中等                 | [Java][OfferS49]        | [Note][OfferN49]   | [GO!][OfferC49]    |
 | 50   | 第一个只出现一次的字符位置      | 哈希                           |  简单                 | [Java][OfferS50]        | [Note][OfferN50]   | [GO!][OfferC50]    |
+| 51   | 数组中的逆序对                | 归并排序                        |  困难                 | [Java][OfferS51]        | [Note][OfferN51]   | [GO!][OfferC51]    |
+| 52   | 两个链表的第一个公共结点        | 链表、双指针                    |  简单                 | [Java][OfferS52]        | [Note][OfferN52]   | [GO!][OfferC52]    |
+| 53.1 | 在排序数组中查找数字            | 数组、二分查找                  |  简单                 | [Java][OfferS53_1]      | [Note][OfferN53_1] | [GO!][OfferC53_1]  |
+| 53.2 | 0～n-1中缺失的数字             | 数组、二分查找                  |  简单                 | [Java][OfferS53_2]      | [Note][OfferN53_2] | [GO!][OfferC53_2]  |
+| 54   | 二叉搜索树的第 K 大节点        | 树                             |  简单                 | [Java][OfferS54]        | [Note][OfferN54]   | [GO!][OfferC54]    |
+| 55.1 | 在排序数组中查找数字            | 树、层次遍历、深度优先           |  简单                 | [Java][OfferS55_1]      | [Note][OfferN55_1] | [GO!][OfferC55_1]  |
+| 55.2 | 平衡二叉树                    | 树、深度优先                    |  简单                 | [Java][OfferS55_2]      | [Note][OfferN55_2] | [GO!][OfferC55_2]  |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -335,3 +342,31 @@
 [OfferS50]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_50.java
 [OfferN50]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#50-%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E5%AD%97%E7%AC%A6%E4%BD%8D%E7%BD%AE
 [OfferC50]: https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/
+
+[OfferS51]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_51.java
+[OfferN51]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#51-%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%80%86%E5%BA%8F%E5%AF%B9
+[OfferC51]: https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/
+
+[OfferS52]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_52.java
+[OfferN52]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#52-%E4%B8%A4%E4%B8%AA%E9%93%BE%E8%A1%A8%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%85%AC%E5%85%B1%E7%BB%93%E7%82%B9
+[OfferC52]: https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/
+
+[OfferS53_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_53_1.java
+[OfferN53_1]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#531-%E5%9C%A8%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E6%9F%A5%E6%89%BE%E6%95%B0%E5%AD%97
+[OfferC53_1]: https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/
+
+[OfferS53_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_53_2.java
+[OfferN53_2]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#532-0n-1%E4%B8%AD%E7%BC%BA%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97
+[OfferC53_2]: https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/
+
+[OfferS54]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_54.java
+[OfferN54]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#54-%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%AC-k-%E5%A4%A7%E8%8A%82%E7%82%B9
+[OfferC54]: https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/
+
+[OfferS55_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_55_1.java
+[OfferN55_1]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#551-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%B7%B1%E5%BA%A6
+[OfferC55_1]: https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/
+
+[OfferS55_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_55_2.java
+[OfferN55_2]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#552-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91
+[OfferC55_2]: https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
