@@ -13,11 +13,9 @@ package com.str818.offer;
  * @date 2020/5/14
  */
 public class Solution_55_1 {
-
     public int maxDepth(TreeNode root) {
         return root == null ? 0 : 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
-
 }
 
 
