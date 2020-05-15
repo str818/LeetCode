@@ -117,6 +117,9 @@
 | 54   | 二叉搜索树的第 K 大节点        | 树                             |  简单                 | [Java][OfferS54]        | [Note][OfferN54]   | [GO!][OfferC54]    |
 | 55.1 | 在排序数组中查找数字            | 树、层次遍历、深度优先           |  简单                 | [Java][OfferS55_1]      | [Note][OfferN55_1] | [GO!][OfferC55_1]  |
 | 55.2 | 平衡二叉树                    | 树、深度优先                    |  简单                 | [Java][OfferS55_2]      | [Note][OfferN55_2] | [GO!][OfferC55_2]  |
+| 56.1 | 数组中数字出现的次数            | 位运算                         |  中等                 | [Java][OfferS56_1]      | [Note][OfferN56_1] | [GO!][OfferC56_1]  |
+| 56.2 | 数组中数字出现的次数II          | 位运算                         |  中等                 | [Java][OfferS56_2]      | [Note][OfferN56_2] | [GO!][OfferC56_2]  |
+| 57.1 | 和为 S 的两个数字              | 双指针                         |  简单                 | [Java][OfferS57_1]      | [Note][OfferN57_1] | [GO!][OfferC57_1]  |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -370,3 +373,15 @@
 [OfferS55_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_55_2.java
 [OfferN55_2]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#552-%E5%B9%B3%E8%A1%A1%E4%BA%8C%E5%8F%89%E6%A0%91
 [OfferC55_2]: https://leetcode-cn.com/problems/ping-heng-er-cha-shu-lcof/
+
+[OfferS56_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_56_1.java
+[OfferN56_1]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#561-%E6%95%B0%E7%BB%84%E4%B8%AD%E6%95%B0%E5%AD%97%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0
+[OfferC56_1]: https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/
+
+[OfferS56_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_56_2.java
+[OfferN56_2]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#562-%E6%95%B0%E7%BB%84%E4%B8%AD%E6%95%B0%E5%AD%97%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0ii
+[OfferC56_2]: https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/
+
+[OfferS57_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_57_1.java
+[OfferN57_1]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#571-%E5%92%8C%E4%B8%BA-s-%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97
+[OfferC57_1]: https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/
