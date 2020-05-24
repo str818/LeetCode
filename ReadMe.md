@@ -120,6 +120,8 @@
 | 56.1 | 数组中数字出现的次数            | 位运算                         |  中等                 | [Java][OfferS56_1]      | [Note][OfferN56_1] | [GO!][OfferC56_1]  |
 | 56.2 | 数组中数字出现的次数II          | 位运算                         |  中等                 | [Java][OfferS56_2]      | [Note][OfferN56_2] | [GO!][OfferC56_2]  |
 | 57.1 | 和为 S 的两个数字              | 双指针                         |  简单                 | [Java][OfferS57_1]      | [Note][OfferN57_1] | [GO!][OfferC57_1]  |
+| 57.2 | 和为 S 的连续正数序列           | 双指针、滑动窗口                |  简单                 | [Java][OfferS57_2]      | [Note][OfferN57_2] | [GO!][OfferC57_2]  |
+| 58.1 | 翻转单词顺序                   | 双指针、字符串                  |  简单                 | [Java][OfferS58_1]      | [Note][OfferN58_1] | [GO!][OfferC58_1]  |
 
 
 [OfferS03]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_3.java
@@ -385,3 +387,11 @@
 [OfferS57_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_57_1.java
 [OfferN57_1]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#571-%E5%92%8C%E4%B8%BA-s-%E7%9A%84%E4%B8%A4%E4%B8%AA%E6%95%B0%E5%AD%97
 [OfferC57_1]: https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/
+
+[OfferS57_2]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_57_2.java
+[OfferN57_2]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#572-%E5%92%8C%E4%B8%BA-s-%E7%9A%84%E8%BF%9E%E7%BB%AD%E6%AD%A3%E6%95%B0%E5%BA%8F%E5%88%97
+[OfferC57_2]: https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/
+
+[OfferS58_1]: https://github.com/str818/LeetCode/blob/master/src/com/str818/offer/Solution_58_1.java
+[OfferN58_1]: https://str818.github.io/2019/07/10/sword-refers-to-offer-down.html#581-%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F
+[OfferC58_1]: https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/
